@@ -1,6 +1,8 @@
-# tools - REACT, HOOKS, CSS, JS, 
+# Tools - REACT, HOOKS, CSS, JS, 
 
 THSI IS A RANDOM MEME GENERATOR APP CREATED USING REACT AND IMGFLIP API
+
+## live - https://memes-react-app.netlify.app/
 
 # Imgflip API
 
